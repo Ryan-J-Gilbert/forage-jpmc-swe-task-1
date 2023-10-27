@@ -1,0 +1,7 @@
+# .gitignore content for Python projects
+
+# Ignore Python bytecode files
+__pycache__
+
+# Ignore editor-specific settings
+.vscode/settings.json
